@@ -1,6 +1,3 @@
-# Project-Code-Flask
-
-
 Flask is a micro web framework which is written in python, it is used to build scalable web applications. A framework gives us a basic structure around which we can write our code in a standardized manner. Frameworks are more application specific e.g. flask and django are python frameworks for developing web applications.  Flask is easier to learn and simpler to use as compared to django but its powerful enough to handle large amount of traffic. To work with Flask we have to have basic understanding of HTML, CSS and JS to work with Flask.
 
 Tools required for this lab setup:
