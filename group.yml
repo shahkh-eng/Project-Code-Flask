@@ -1,0 +1,8 @@
+---
+IOS_Routers:
+
+  platform: ios
+
+  username: gnslab
+
+  password: cisco
